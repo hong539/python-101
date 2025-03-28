@@ -1,8 +1,7 @@
 # you can write to stdout for debugging purposes, e.g.
 # print("this is a debug message")
 
-def solution(N):    
-    # return len(max(format(N,'b').strip('0').split('1')))
+def solution(N):
     return len(max(format(N,'b').strip('0').split('1')))
 
 def main():
