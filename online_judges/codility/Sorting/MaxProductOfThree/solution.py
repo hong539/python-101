@@ -1,17 +1,17 @@
 # you can write to stdout for debugging purposes, e.g.
 # print("this is a debug message")
 
-# O(N log N)
-def solution(A):
-    top3 = sorted(A, reverse=True)[:3]
-    return top3[0] * top3[1] * top3[2]
+# # O(N log N)
+# def solution(A):
+#     top3 = sorted(A, reverse=True)[:3]
+#     return top3[0] * top3[1] * top3[2]
 
-# O(N log N)
-def solution(A):
-    A.sort()
-    # 三個最大的正數
-    # 兩個最小的負數 + 最大的正數
-    return max(A[-1] * A[-2] * A[-3], A[0] * A[1] * A[-1])
+# # O(N log N)
+# def solution(A):
+#     A.sort()
+#     # 三個最大的正數
+#     # 兩個最小的負數 + 最大的正數
+#     return max(A[-1] * A[-2] * A[-3], A[0] * A[1] * A[-1])
 
 # O(N)
 def solution(A):
