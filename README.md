@@ -16,6 +16,9 @@ uv run solution.py
     * [docs.python.org/3.12/library/unittest.mock-examples.html](https://docs.python.org/3.12/library/unittest.mock-examples.html)
     * [docs.python.org/3.12/library/stdtypes.html/Built-in Types](https://docs.python.org/3.12/library/stdtypes.html)
     * [docs.python.org/3.13/library/collections.html](https://docs.python.org/3.13/library/collections.html)
+    * [docs.python.org/3/library/asyncio.html](https://docs.python.org/3/library/asyncio.html)
+    * [docs.python.org/3/library/logging.handlers.html](https://docs.python.org/3/library/logging.handlers.html)
+    * [docs.python.org/3/library/logging.html#module-logging](https://docs.python.org/3/library/logging.html#module-logging)
 * roadmap.sh
     * [roadmap.sh/python](https://roadmap.sh/python)
 * leetcode
