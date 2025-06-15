@@ -24,6 +24,9 @@ uv run solution.py
     * An extremely fast Python package and project manager, written in Rust.
     * [docs.astral.sh/uv/](https://docs.astral.sh/uv/)
     * [github.com/astral-sh/uv](https://github.com/astral-sh/uv)
+    * [docs.astral.sh/uv/guides/integration/fastapi/#migrating-an-existing-fastapi-project](https://docs.astral.sh/uv/guides/integration/fastapi/#migrating-an-existing-fastapi-project)
+    * uvx
+        * [docs.astral.sh/uv/concepts/tools/#the-uv-tool-interface](https://docs.astral.sh/uv/concepts/tools/#the-uv-tool-interface)
 * geeksforgeeks
     * [www.geeksforgeeks.org/python-interview-questions/](https://www.geeksforgeeks.org/python-interview-questions/)
 * docs
@@ -35,6 +38,14 @@ uv run solution.py
     * [docs.python.org/3/library/asyncio.html](https://docs.python.org/3/library/asyncio.html)
     * [docs.python.org/3/library/logging.handlers.html](https://docs.python.org/3/library/logging.handlers.html)
     * [docs.python.org/3/library/logging.html#module-logging](https://docs.python.org/3/library/logging.html#module-logging)
+    * Inversion of control
+* Books
+    * [automatetheboringstuff.com/](https://automatetheboringstuff.com/)
+        * Automate the Boring Stuff with Python
+* Python Developer
+    * [www.python.org/dev/](https://www.python.org/dev/)
+    * [www.python.org/dev/buildbot/](https://www.python.org/dev/buildbot/)
+        * [buildbot.python.org/#/](https://buildbot.python.org/#/)
 * interpreter
     * Python 2.7
     * Python 3.8
@@ -47,7 +58,13 @@ uv run solution.py
     * django
     * fastapi
     * flask
+* cli tools
+    * video
+        * [github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 * roadmap.sh
     * [roadmap.sh/python](https://roadmap.sh/python)
+* SSH
+    * [AsyncSSH: Asynchronous SSH for Python](https://asyncssh.readthedocs.io/en/latest/)
+    * [Paramiko](https://www.paramiko.org/)
 * leetcode
     * [leetcode-75](https://leetcode.com/studyplan/leetcode-75/)
